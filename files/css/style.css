@@ -1,0 +1,7 @@
+.hide {
+    color:white
+}
+
+.hide:hover {
+    color:pink;
+}
